@@ -1,0 +1,21 @@
+* {
+	font-family: "Poppins", sans-serif;
+}
+
+.bg-navbar {
+	background-color: #e6f5ff;
+}
+
+.dark-blue {
+	color: #0099ff;
+}
+
+.bg-blue {
+	background: rgb(15,107,185);
+	background: linear-gradient(0deg, rgba(15,107,185,1) 0%, rgba(0,212,255,1) 100%);
+}
+
+.bg-footer {
+	background-color: #0047b3;
+}
+
